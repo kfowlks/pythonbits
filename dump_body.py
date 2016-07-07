@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 """Simple RFC822 Decoder
 
+The get_decoded_email_body(message_body): method was stolen from this GIST (https://gist.github.com/miohtama/5389146)
+
 Author: Kevin Fowlks
 Date:   06/30/2016
 
